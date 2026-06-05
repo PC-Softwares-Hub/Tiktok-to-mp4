@@ -6,7 +6,7 @@
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
-  background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 50%, #16213e 100%);
+  background: linear-gradient(135deg, #000000 0%, #161616 50%, #1a1a1a 100%);
   min-height: 100vh;
   color: #fff;
 }
@@ -26,7 +26,7 @@ header h1 {
   text-align: center;
   font-size: 2.4rem;
   margin-bottom: 30px;
-  background: linear-gradient(90deg, #ff0050, #00f2ea);
+  background: linear-gradient(90deg, #fe2c55, #25f4ee);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -69,7 +69,7 @@ header p {
   text-align: center;
   font-size: 1.8rem;
   margin-bottom: 30px;
-  background: linear-gradient(90deg, #ff0050, #00f2ea);
+  background: linear-gradient(90deg, #fe2c55, #25f4ee);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -132,7 +132,7 @@ header p {
   justify-content: center;
   width: 36px;
   height: 36px;
-  background: linear-gradient(90deg, #ff0050, #00f2ea);
+  background: linear-gradient(90deg, #fe2c55, #25f4ee);
   color: #000;
   font-weight: 800;
   border-radius: 50%;
@@ -214,7 +214,7 @@ footer {
 .footer-content h3 {
   font-size: 1.1rem;
   margin-bottom: 6px;
-  background: linear-gradient(90deg, #ff0050, #00f2ea);
+  background: linear-gradient(90deg, #fe2c55, #25f4ee);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -372,10 +372,10 @@ footer {
 
 .btn-primary {
   padding: 14px 28px;
-  background: linear-gradient(90deg, #25f4ee, #00d4aa);
+  background: linear-gradient(90deg, #fe2c55, #fe2c55dd);
   border: none;
   border-radius: 50px;
-  color: #000;
+  color: #fff;
   font-size: 1rem;
   font-weight: 700;
   cursor: pointer;
@@ -425,7 +425,7 @@ footer {
   height: 44px;
   margin: 0 auto 14px;
   border: 3px solid rgba(255, 255, 255, 0.15);
-  border-top-color: #ff0050;
+  border-top-color: #fe2c55;
   border-radius: 50%;
   animation: spin 0.8s linear infinite;
 }

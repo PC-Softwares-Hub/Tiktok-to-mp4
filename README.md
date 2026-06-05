@@ -1,13 +1,13 @@
-# Insta to MP4 - Download Instagram Videos Without Watermark
+# TikTok To Mp4 - Download TikTok Videos Without Watermark
 
 By **Abbas** | [PC-Softwares-Hub](https://github.com/PC-Softwares-Hub)
 
-Download Instagram videos and reels in high quality MP4 format — no watermark, 100% free.
+Download TikTok videos and reels in high quality MP4 format — no watermark, 100% free.
 
 ## Features
 
-- ⚡ **Lightning Fast** - Download Instagram videos in seconds
-- 🎬 **No Watermark** - Get clean MP4 videos without Instagram watermarks
+- ⚡ **Lightning Fast** - Download TikTok videos in seconds
+- 🎬 **No Watermark** - Get clean MP4 videos without TikTok watermarks
 - 📱 **Mobile Friendly** - Works perfectly on phones, tablets, and desktops
 - 🔒 **Safe and Private** - We don't store your data or downloaded videos
 - ♾️ **Unlimited Downloads** - Download as many videos as you want
@@ -15,15 +15,14 @@ Download Instagram videos and reels in high quality MP4 format — no watermark,
 
 ## How to Use
 
-1. **Copy Instagram Link** - Open Instagram, find the video, tap Share → Copy Link
+1. **Copy TikTok Link** - Open TikTok, find the video, tap Share → Copy Link
 2. **Paste the URL** - Paste the link into the input box above
 3. **Download MP4** - Click Download and your video starts downloading
 
 ## Supported URLs
 
-- Instagram posts: `https://www.instagram.com/p/...`
-- Instagram reels: `https://www.instagram.com/reel/...`
-- Instagram TV: `https://www.instagram.com/tv/...`
+- TikTok videos: `https://www.tiktok.com/@username/video/...`
+- TikTok short links: `https://vm.tiktok.com/...`
 
 ## Live Site
 
@@ -31,4 +30,4 @@ https://pc-softwares-hub.github.io/Insta-to-mp4/
 
 ## Disclaimer
 
-For personal use only. Respect copyright and Instagram's Terms of Service. Not affiliated with Instagram.
+For personal use only. Respect copyright and TikTok's Terms of Service. Not affiliated with TikTok.
