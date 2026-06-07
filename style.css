@@ -255,6 +255,32 @@ footer {
   font-size: 0.8rem;
 }
 
+.insta-float {
+  position: fixed;
+  left: 24px;
+  bottom: 96px;
+  width: 60px;
+  height: 60px;
+  background: #000;
+  border: 2px solid #fe2c55;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 0.5rem;
+  font-weight: 700;
+  text-decoration: none;
+  text-align: center;
+  line-height: 1.2;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  z-index: 9999;
+  transition: transform 0.2s;
+}
+.insta-float:hover {
+  transform: translateY(-4px) scale(1.08);
+}
+
 .whatsapp-float {
   position: fixed;
   left: 24px;
